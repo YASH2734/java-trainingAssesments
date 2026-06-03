@@ -1,13 +1,11 @@
 package day2;
 
-
 class Car{                   //parent class
 	void ApplyBrake(){
 		
 		System.out.println("Apply brake");
 	}
 }
-
 class Tata extends Car{
 	
 	void ApplyBrake(){
