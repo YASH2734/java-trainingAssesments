@@ -8,7 +8,6 @@ class InvalidAgeException extends Exception {                //constructor
 			super(msg);                         //calling super class constructor in exception class
 		}
 	}
-
 	public class exceptionHandleUseThrows {
 
 		static void validate(int age) throws InvalidAgeException {
