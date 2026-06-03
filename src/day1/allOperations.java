@@ -1,5 +1,4 @@
 package day1;
-
 public class allOperations {
 
 	public static void main(String[] args) {
