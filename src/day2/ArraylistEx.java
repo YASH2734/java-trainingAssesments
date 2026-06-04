@@ -1,5 +1,12 @@
 package day2;
 
+/*
+ * List --> the size of an array cannot be modified (if you want to add or remove elements to/from an array, you have to create a new one).
+ * ArreyList-->elements can be added and removed from an ArrayList whenever you want. 
+ * 
+ */
+
+
 import java.util.ArrayList;
 import java.util.List;
 
