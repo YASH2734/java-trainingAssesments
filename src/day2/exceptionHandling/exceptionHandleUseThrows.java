@@ -3,6 +3,8 @@ package day2.exceptionHandling;
 // Age validation problem
 class InvalidAgeException extends Exception {                //constructor
 	     
+	private static final long serialVersionUID = -7661373170619697078L;
+
 		InvalidAgeException(String msg) {
 	
 			super(msg);                         //calling super class constructor in exception class

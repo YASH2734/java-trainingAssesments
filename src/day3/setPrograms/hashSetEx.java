@@ -7,7 +7,7 @@ import java.util.*;
  * A HashSet is a collection of elements where every element is unique. 
  */
 
-public class setEx {
+public class hashSetEx {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

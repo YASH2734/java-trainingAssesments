@@ -14,7 +14,7 @@ public class linkedHashMapEx {
 		    capitalCities.put("India", "New Dehli");
 		    capitalCities.put("Austria", "Wien");
 		    capitalCities.put("Norway", "Oslo");
-		    capitalCities.put("Norway", "Oslo"); // Duplicate are ignored here.(key--"Norway")
+		    capitalCities.put("Norway", "Oslo"); // Duplicate are ignored here.(key-->"Norway")
 		    capitalCities.put("USA", "Washington DC");
 
 		    System.out.println(capitalCities);
