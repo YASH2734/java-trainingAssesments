@@ -11,6 +11,12 @@ public class listEx {
     	   list.add(14);
     	   list.add(15);
     	   list.add(16);
-     	 System.out.println(list);
+    	   list.add(17);
+    	   list.add(18);
+    	   list.add(19);
+    	   list.add(20);
+    	   for(Integer Int:list) { 
+     	 System.out.println(Int);
        }
+}
 }

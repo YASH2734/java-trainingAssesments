@@ -6,7 +6,6 @@ package day2.listPrograms;
  * 
  */
 
-
 import java.util.ArrayList;
 import java.util.List;
 
