@@ -32,7 +32,7 @@ public class classInheritanceEx {
     }
 } */
 
-
+//Single Level Inheritance
 package day1.oppsConcepts;
 
 import java.util.Scanner;
@@ -68,7 +68,7 @@ public class classInheritanceEx {
         System.out.print("Enter Password: ");
         String p = sc.nextLine();
 
-        Login l = new Login(); // Child class object
+        Login l = new Login();             // Child class object
         l.check(u, p);
 
         sc.close();
