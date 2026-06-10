@@ -1,3 +1,4 @@
+
 package day2.exceptionHandling;
 
 public class exceptionHandlling {
