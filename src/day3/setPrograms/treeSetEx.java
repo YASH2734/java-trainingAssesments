@@ -17,7 +17,7 @@ public class treeSetEx {
        treeset.add(3);
        treeset.add(20);
        treeset.add(2);
-     /* treeset.add(null);*/
+     /* treeset.add(null);*/   //null is not cached.  
        
        System.out.println("Returns-->"+treeset);
 	}
