@@ -46,7 +46,7 @@ class User {
 
 // Child Class
 class Login extends User {
-
+    
     void check(String u, String p) {
         if (username.equals(u) && password.equals(p)) {
             System.out.println("Login Successful...!");
