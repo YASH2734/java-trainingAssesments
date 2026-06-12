@@ -17,6 +17,7 @@ public class linkedList {
       LinkedList<String> lst=new LinkedList<String>();
       lst.add("USA");
       lst.add("UK");
+      lst.add("UK");
       lst.add("Paris");
       lst.add("England");
       System.out.println("Travaled Countries-->"+lst);
